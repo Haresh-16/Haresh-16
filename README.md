@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haresh Indrajit
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning about diffusion models
-- 💞️ I’m looking to collaborate on event recognition from videos related project
+- 💞️ I’m looking to collaborate on projects on event recognition from videos
 - 📫 Reach me at hareshindrajit16@gmail.com
 
 <!---
