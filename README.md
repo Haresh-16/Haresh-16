@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning about diffusion models
 - 💞️ I’m looking to collaborate on projects on event recognition from videos
-- 📫 Reach me at hareshindrajit16@gmail.com
+- 📫 Reach me at haresh@uw.edu
 
 <!---
 Haresh-16/Haresh-16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
